@@ -4,5 +4,5 @@
 **kypit bobra za 500k dollarov and biblioteky "pygame"**aa
 *Dla ee yctanovki  vipolnite:*
 ```
-**pip install pygame**
+pip install pygame
 ```
